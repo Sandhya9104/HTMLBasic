@@ -1,0 +1,19 @@
+CSS Types:- 1]Inline:-Inside The Tag eg.<h1 style=""></h1>
+            2] Internal:-Inside the head Tag
+            3]External:-we create new.css file and link with .html using <link>
+
+Selector:-  1]Element Selector:-h1{}
+            2]Group Selector:-h1,h2,h3{}
+            3]Class Selector:- .(dot)
+            4]Id Selector:- #(hash)
+
+
+            div(division):- It takes the full width
+            span         :- It auqires needed space
+
+CSS Box model:-1]Content
+                2]Padding
+                3]Border
+                4]Marging
+
+                96px=1 inch
